@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Projet Olist
+kaggle.json
+olist_data/
+*.zip
+outputs/
